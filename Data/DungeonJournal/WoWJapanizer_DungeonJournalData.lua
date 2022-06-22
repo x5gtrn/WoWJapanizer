@@ -1,0 +1,16 @@
+WoWJapanizer_DungeonJournal.Data={
+["852"]={"Immerseusは100 Corruptionから始まり、エンカウンターの目的はボスのCorruptionを0にすること。 \nImmerseusのHPが0まで減らす度に、Sha PuddleとContaminated Puddleに分裂する。\nDPSはSha Puddleを殺し、HealerはContaminated Puddleを治療する。\nShaとContaminated Puddleは部屋の中央に移動し、たどり着くとImmerseusが復活。 \n分裂Phase中に倒した／治療したAddの数によって復活したボスのCorruptionの減り具合が決まる。\n復活したボスのHPの%は残りのCorruptionと同じ（例：83 CorruptionだとHP 83%）。\nボスのCorruptionが0になるまで繰り返す。","- [Swirl] を避けろ！\n- Immerseus が分裂したら、黒いスライムを真ん中に到達する前に倒す","- [Swirl] を避けろ！\n- Immerseus が分裂したら、白いスライムを真ん中に到達する前にHP全快にする\n- スライムが真ん中の池についたら、一匹ごとにレイドダメージが発生する","- Immerseus をレイドに向けない\n- [Corrosive Blast]は防御してタンク交代\n- Immerseus が分裂したら、黒いスライムを真ん中に到達する前に倒す"},
+["849"]={"Raidは3人のPandaren（Brewmaster, Rogue, Priest）と同時に戦う。\nそれぞれのHPが66%と33%になるとDesperate Measureが発生し、新たなAddが出てくる。\n同時にDesperate Measureを発動させるとWipeにつながるので\nボスのHPの管理がこのエンカウンターのポイントとなる。","- Health 1%になると[Bond of the Golden Lotus] 状態になりしばらくすると復活するから3体をなるべく同時に倒す\n- Protectorを倒すたびにdark manifestationsが召還されるので倒す\n- RookのDesperate Measures時には [Corruption Shock]をインタラプトする","- Sunの [Shadow Word: Bane]を拡散する前にDispelする\n- SunのDesperate Measures時には[Dark Meditation]によって大きなレイドダメージ発生","- Rook をタンクする場合、場所に注意し[Vengeful Strikes]をレイドに当てないようにする\n- Heをタンクする場合、[Gouge]を使われたら背中を向けて、無力化されないようにする"},
+["866"]={"戦闘が始まるとNorushenはRaidを隔離部屋に閉じこみ、\nプレイヤーが持っているCorruptionを抽出しAmalgam of Corruptionを製造する。\n\nこのエンカウンターの目的は自分のCorruptionを減らし、Amalgamを倒すこと。\nCorruptionを減らす方法は部屋にあるPurifying Lightをさわり\n、別空間でRole別のミニエンカウンターをクリアすること。\n\n成功すればCorruptionがなくなり、Amalgamにfull damageを与えることができる。","","",""},
+["867"]={"プレイヤーは0 Prideから始まり、戦闘中にボスや、Addのアビリティを受けると5 Pride追加される。\nPrideが25, 50, 75, 100の時にSwelling Prideに当たると新たなエフェクトが発動する。","","",""},
+["881"]={"","","",""},
+["864"]={"","","",""},
+["856"]={"","","",""},
+["850"]={"","","",""},
+["846"]={"","","",""},
+["870"]={"","","",""},
+["851"]={"","","",""},
+["865"]={"","","",""},
+["853"]={"","","",""},
+["869"]={"","","",""},
+}

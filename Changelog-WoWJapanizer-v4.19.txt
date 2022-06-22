@@ -1,0 +1,88 @@
+------------------------------------------------------------------------
+r310 | milaisan | 2016-11-03 12:45:35 +0000 (Thu, 03 Nov 2016) | 1 line
+Changed paths:
+   A /tags/v4.19 (from /trunk:309)
+
+DH done
+------------------------------------------------------------------------
+r309 | milaisan | 2016-11-03 12:44:50 +0000 (Thu, 03 Nov 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+DH
+------------------------------------------------------------------------
+r307 | milaisan | 2016-10-26 12:57:13 +0000 (Wed, 26 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/WoWJapanizer.toc
+
+7.1.0
+------------------------------------------------------------------------
+r305 | milaisan | 2016-10-25 11:53:52 +0000 (Tue, 25 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+DH/Mage/Hunter
+------------------------------------------------------------------------
+r303 | milaisan | 2016-10-18 12:06:59 +0000 (Tue, 18 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+hunter/ DH
+------------------------------------------------------------------------
+r302 | milaisan | 2016-10-15 11:35:12 +0000 (Sat, 15 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+DH Artifact
+------------------------------------------------------------------------
+r300 | milaisan | 2016-10-11 13:12:05 +0000 (Tue, 11 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+   M /trunk/WoWJapanizerArtifactToolTip.lua
+
+iroiro
+------------------------------------------------------------------------
+r299 | milaisan | 2016-10-08 06:51:29 +0000 (Sat, 08 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+DH
+------------------------------------------------------------------------
+r298 | milaisan | 2016-10-08 03:54:57 +0000 (Sat, 08 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+   M /trunk/Data/Spell/WoWJapanizer_SpellGlyph.lua
+
+DH
+------------------------------------------------------------------------
+r296 | milaisan | 2016-10-08 00:06:00 +0000 (Sat, 08 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+Hunter
+------------------------------------------------------------------------
+r294 | milaisan | 2016-10-05 12:54:39 +0000 (Wed, 05 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+   M /trunk/WoWJapanizerArtifactToolTip.lua
+
+paladin, dh
+------------------------------------------------------------------------
+r293 | milaisan | 2016-10-05 12:02:07 +0000 (Wed, 05 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+paladin
+------------------------------------------------------------------------
+r292 | milaisan | 2016-10-04 13:19:10 +0000 (Tue, 04 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+priest
+------------------------------------------------------------------------
+r290 | milaisan | 2016-10-04 10:36:37 +0000 (Tue, 04 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Data/Spell/WoWJapanizer_SpellData.lua
+
+priest and hunter
+------------------------------------------------------------------------

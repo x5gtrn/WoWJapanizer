@@ -1,0 +1,70 @@
+## Interface: 70100
+## Title: WoWJapanizer
+## Notes: Translate Quest data, Item ToolTips and Spell ToolTips into Japanese text.
+## Version: 4.0.0
+## Author: milai
+## OptionalDeps: Ace3, LibStub, CallbackHandler
+## SavedVariables: WoWJapanizerDB
+## X-Min-Interface: 70100
+## X-Curse-Project-Name: WoWJapanizer
+## X-Curse-Project-ID: WoWJapanizer
+## X-Curse-Packaged-Version: v4.04
+## X-Curse-Project-Name: WoWJapanizer
+## X-Curse-Project-ID: wowjapanizer
+## X-Curse-Repository-ID: wow/wowjapanizer/mainline
+## X-Curse-Packaged-Version: v4.19
+## X-Curse-Project-Name: WoWJapanizer
+## X-Curse-Project-ID: wowjapanizer
+## X-Curse-Repository-ID: wow/wowjapanizer/mainline
+
+
+embeds.xml
+
+Data\Quest\WoWJapanizer_Quest.lua
+Data\Quest\WoWJapanizer_QuestData.lua
+Data\Quest\WoWJapanizer_QuestIndex.lua
+Data\Quest\WoWJapanizer_QuestFuriganaData.lua
+
+Data\Achievement\WoWJapanizer_Achievement.lua
+Data\Achievement\WoWJapanizer_AchievementData.lua
+Data\Achievement\WoWJapanizer_AchievementIndex.lua
+
+Data\Item\WoWJapanizer_Item.lua
+Data\Item\WoWJapanizer_ItemData.lua
+
+Data\Spell\WoWJapanizer_Spell.lua
+Data\Spell\WoWJapanizer_SpellData.lua
+Data\Spell\WoWJapanizer_SpellNewbie.lua
+Data\Spell\WoWJapanizer_SpellChain.lua
+Data\Spell\WoWJapanizer_SpellGlyph.lua
+
+Data\Garrison\WoWJapanizer_Garrison.lua
+Data\Garrison\WoWJapanizer_GarrisonData.lua
+Data\Garrison\WoWJapanizer_GarrisonChain.lua
+
+WoWJapanizerDebug.xml
+
+WoWJapanizerTemplate.xml
+WoWJapanizerQuest.lua
+
+WoWJapanizerQuestLog.xml
+WoWJapanizerQuestLog.lua
+WoWJapanizerWorldMapQuest.xml
+WoWJapanizerWorldMapQuest.lua
+WoWJapanizerQuestGossip.xml
+WoWJapanizerQuestGossip.lua
+
+WoWJapanizerToolTip.lua
+WoWJapanizerGameToolTip.lua
+WoWJapanizerItemRefTooltip.lua
+
+WoWJapanizerTooltip.xml
+WoWJapanizerBuffToolTip.lua
+WoWJapanizerGlyphToolTip.lua
+WoWJapanizerGarrisonToolTip.lua
+WoWJapanizerArtifactToolTip.lua
+
+WoWJapanizer.lua
+
+locales\WoWJapanizer-jaJP.lua
+
